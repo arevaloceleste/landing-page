@@ -1,0 +1,43 @@
+body{
+    background-color:#9ac6cc;
+}
+
+.containerNavbar{
+    background-color:
+    #57A1AB
+}
+
+.container-video{
+   width: 575px;
+}
+.verVideo{
+    align-items:flex-start;
+}
+.link-video{
+    background: url("../img/imagenvideo.jpeg") no-repeat;
+    width: 400px;
+    height: 400px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 400px;
+    background-size: contain;
+}
+form {
+    font: 1em sans-serif;
+    max-width: 320px;
+  }
+  
+  
+.btn-primary{
+    color: #fff;
+    background-color: #536d8e24;
+    border-color: #6e7990;
+}
+.logo{
+
+  margin: 10px;
+  width: 60px;
+}
+.form-select{
+color: #000;
+}
