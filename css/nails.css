@@ -1,10 +1,5 @@
 body{
-    background-color:#9ac6cc;
-}
-
-.containerNavbar{
-    background-color:
-    #57A1AB
+    background-color:cornsilk;
 }
 
 .container-video{
@@ -40,4 +35,11 @@ form {
 }
 .form-select{
 color: #000;
+}
+
+.navbar{
+    background-color: #ff6666;
+}
+.bg-dark{
+    background-color:#ff6666!important;
 }
